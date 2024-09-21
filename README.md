@@ -1,7 +1,7 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToDuZKo_d_Pl2yJPqAVVG0_RAefboWnikIYw&s)](https://abhay-kevat.rf.gd)
+<img alt="background" width="1200" height="300" src="https://img.freepik.com/free-photo/abstract-technology-background-concept_1194-617185.jpg?ga=GA1.1.672934438.1720172309&semt=ais_hybrid">
 <h1 align="center">Hi 👋, I'm Abhay Kevat</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif" alt="">
+<img align="right" alt="Coding" width="400" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhaykevat23&label=Profile%20views&color=0e75b6&style=flat" alt="abhaykevat23" /> </p>
 
