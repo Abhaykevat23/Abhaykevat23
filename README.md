@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **GSAP , ReactJS**
 
-- 👨‍💻 All of my projects are available at [abhay-kevat.rf.gd](abhay-kevat.rf.gd)
+- 👨‍💻 All of my projects are available at [abhay-kevat.rf.gd](abhay-kevat.rf.gd) & [https://abhaykevat.vercel.app/](https://abhaykevat.vercel.app/)
 
 - 💬 Ask me about **MERN , Web Development**
 
